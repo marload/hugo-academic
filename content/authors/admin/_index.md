@@ -55,7 +55,7 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-Enter email to display Gravatar (if Gravatar enabled in Config)
+# Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rladhkstn8@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
